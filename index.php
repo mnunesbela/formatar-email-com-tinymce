@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Nome da aba do navegador</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
-    <script src="https://cdn.tiny.cloud/1/xdry6kco61bzdaz9n34a42sr152ckvo9szynhkgc5sdtrah7/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"> //Link para a biblioteca Bootstrap
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet"> //Link para a biblioteca de icones do Bootstrap
+    <script src="https://cdn.tiny.cloud/1/xdry6kco61bzdaz9n34a42sr152ckvo9szynhkgc5sdtrah7/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script> //Link para o tinyMCE
     <script>
         tinymce.init({
             selector: '#mensagem'
